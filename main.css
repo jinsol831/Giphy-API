@@ -1,0 +1,27 @@
+#animalButton {
+    padding: 40PX;
+    margin-right: 20px;
+    text-align: center;
+    font-family: 'Black Han Sans', sans-serif;
+
+}
+
+#animal-form {
+  
+    padding: 10PX;
+    text-align: center;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+#animals {
+    text-align: center;
+}
+
+.gif {
+
+    padding: 10px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
